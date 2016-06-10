@@ -1,0 +1,32 @@
+/***********CSS******************/
+
+
+.section1 {
+  height: 500px;
+  background-color: #bcaaa4;
+}
+
+.font1 {
+  font-weight: 200;
+  font-size: 34;
+}
+
+.pad1 {
+  padding-top: 50px;
+}
+
+.img1 {
+  height: 400px;
+  width: 450px;
+  padding-left: 50px;
+}
+
+.img2 {
+  height: 400px;
+  width: 600px;
+}
+
+.img3 {
+  height: 400px;
+  width: 450px;
+}
